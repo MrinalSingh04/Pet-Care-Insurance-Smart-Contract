@@ -7,7 +7,7 @@ The **Pet Care Insurance Contract** is a decentralized smart contract that allow
 Verification of health issues is simulated via an **oracle-like admin approval**, but can be integrated with real-world oracle networks (e.g., Chainlink) for production.
 
 This contract aims to make pet insurance **transparent, automated, and trustless**.
- 
+  
 --- 
 
 ## **What It Does**
