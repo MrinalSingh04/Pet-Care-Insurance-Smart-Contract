@@ -13,7 +13,7 @@ This contract aims to make pet insurance **transparent, automated, and trustless
 ## **What It Does**
 
 - Allows **pet owners to register pets** and stake a monthly insurance premium.
-- Owners can **file claims** for pet health issues.
+- Owners can **file claims** for pet health issues. 
 - An **admin (or oracle)** approves claims, simulating vet/hospital verification.
 - Upon approval, the **contract automatically pays out** the coverage amount to the owner.
 - Maintains a record of all pets, premiums, and claims on-chain.
