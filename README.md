@@ -9,7 +9,7 @@ Verification of health issues is simulated via an **oracle-like admin approval**
 This contract aims to make pet insurance **transparent, automated, and trustless**.
    
 ---  
- 
+  
 ## **What It Does**
 
 - Allows **pet owners to register pets** and stake a monthly insurance premium.
